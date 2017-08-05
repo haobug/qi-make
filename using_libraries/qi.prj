@@ -1,0 +1,10 @@
+[Source Files]
+hello_main.cpp 
+print.cpp
+use_log.cpp 
+use_format.cpp 
+log/log.cpp
+format/format.cpp
+[Initialization Code]
+[Finalization Code]
+[User-Defined Functions]
